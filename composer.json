@@ -1,5 +1,5 @@
 {
-    "name": "rdh/laravel-factory-converter",
+    "name": "lalov/laravel-factory-converter",
     "description": "Convert your old Laravel factories to the new version 8 classes",
     "minimum-stability": "stable",
     "license": "MIT",
